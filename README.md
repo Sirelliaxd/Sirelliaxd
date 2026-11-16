@@ -16,8 +16,8 @@
   
 <li><b>Name:</b> Stella A***</li>
 <li><b>Pronouns:</b> She/Her</li>
-<li><b>I Love:</b>soulsborne, anime, philosophy, occult, FPV</li>
-<li><b>Non-Tech Hobbies:</b>Reading, Art, Music prod, Horror</li>
+<li><b>I Love:</b> soulsborne, anime, philosophy, occult, FPV</li>
+<li><b>Non-Tech Hobbies:</b> Reading, Art, Music prod, Horror</li>
 <br>
 <br><img src="https://64.media.tumblr.com/41ea192bce3209185fd47b6256c9490b/4160be3cc2b84620-cf/s250x400/2c585e8494b3b4750d3aaaba0f0bee30edac0a90.gifv" align="left">
 <br><br>
