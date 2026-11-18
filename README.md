@@ -86,10 +86,6 @@
 
 ![HackTheBox](https://img.shields.io/badge/-HackTheBox-%239FEF00?style=for-the-badge&logo=hackthebox&logoColor=white) - `@Stellasobased`
 
-![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white) - `@Sirelliaxd`
-
-![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white) - `@Sirelliaxd`
-***
 <div align="center">
 <br><img src="https://64.media.tumblr.com/38b090074c6e9a8f73616fef4bd9f1a9/4160be3cc2b84620-e7/s400x600/ea01d196938f5187693cc61f84f732bbc035c814.gifv" align="center">
 </div><br>
