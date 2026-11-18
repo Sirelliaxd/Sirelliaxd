@@ -2,7 +2,6 @@
 
 <div align="center">
   <p>Wannabe Hacker</p>
-  <p>FOSS Evangelist 🪽་༘࿐</p>
   <p>Larper</p>
   <p>I use 𝔸𝕣𝕥𝕚𝕩 btw.</p>
 <img src="https://64.media.tumblr.com/51f587699811ceec1ca3f632416883a5/24a1316a9dd0c2cc-28/s500x750/edfb8f7cbc66a0ac76a969c502e32e4f41c1a258.pnj">
@@ -77,7 +76,7 @@
 
 
 <h1 align="center">✩₊˚.⋆☾ℭ𝔬𝔫𝔱𝔞𝔠𝔱 & 𝔏𝔦𝔫𝔨𝔰☽⋆⁺₊✧</h1>
-<p><i>Ways to contact me & links to my socials <3</i></p>
+<p><i>Ways to contact me & links<3</i></p>
 <br>
 
 ![SimpleX](https://img.shields.io/badge/-SimpleX-000000?style=flat-square&logo=simplex&logoColor=white) - [link](https://smp15.simplex.im/a#8ktj0jw9g9noOBNNv6bDh8VSQGQlTbgu8BpLM2PQ8FQ)
